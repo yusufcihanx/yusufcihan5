@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Yusuf
+- 👀 I’m interested in electronics, software and psychology 
+- 🌱 I’m currently learning node.js
+- 📫 How to reach me instagram @ysf_chn1
